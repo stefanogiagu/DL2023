@@ -1,2 +1,2 @@
 # DL2023
-DeepLearn2023 QML Lectures and Hands-on session
+DeepLearn2023 QML Lecture hands-on session material 
